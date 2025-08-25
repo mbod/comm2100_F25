@@ -72,7 +72,7 @@
     analyzing published scientific articles, using statistical software
     (R), and discussing research featured in the news.
 
--   ****NOTE****: Much of the lecture material will be posted in videos and
+-   **NOTE**: Much of the lecture material will be posted in videos and
     readings on Canvas so that we can maximize in class activities and
     discussion. You will be expected to have done the readings and
     watched this material **BEFORE** the first class of the week (See
