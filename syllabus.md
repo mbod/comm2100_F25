@@ -72,17 +72,21 @@
     analyzing published scientific articles, using statistical software
     (R), and discussing research featured in the news.
 
--   **NOTE: Much of the lecture material will be posted in videos and
+-   ****NOTE****: Much of the lecture material will be posted in videos and
     readings on Canvas so that we can maximize in class activities and
-    discussion.** You will be expected to have done the readings and
-    watched this material **BEFORE** the first class of the week.
+    discussion. You will be expected to have done the readings and
+    watched this material **BEFORE** the first class of the week (See
+    schedule for details).
 
--   Each week one session will focus more on the current topic and
+-   Most weeks one session will focus more on the current topic and
     review and discuss the readings and previously posted lecture and
     provide background for the theory and methods. The second will be
     a lab session in which students will work through exercises using
     the R programming language (we will use a web-based data analysis
     and programming environment called JuypterHub to do this).
+
+
+## Goals and objectives
 
 -   By completing this course students will:
     -   understand the logic behind social science research applied to
@@ -187,6 +191,7 @@ on the web etc.
 **NOTE: This is a tentative schedule that will change as the course gets
 started**
 
+
 ## Week 1 - Course Introduction and Setup
 
 
@@ -194,6 +199,7 @@ started**
 
 -   Course Overview and Introduction
 -   Collecting data about you
+-   JupyterHub  setup
 -   Example of media coverage of scientific study and reading article
 
 
