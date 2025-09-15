@@ -285,15 +285,17 @@ started**
 ### Tuesday 16 September
 
 -   Using surveys
--   Working on survey mini project
--   Using Qualtrics
 
 
+### SURVEY MEASURES ASSIGNMENT (PART 1) DUE - Wednesday 17 September @ 11.59pm
+-   **Submit in Canvas**
+  
 ### Thursday 18 September
+-   Cognitive Interviews 
+-   Evaluating survey items
 
 
-### SURVEY MEASURES ASSIGNMENT (PART 1) DUE - Friday 19 September @ 11.59pm
-
+### SURVEY MEASURES ASSIGNMENT (PART 2) DUE - Sunday 21 September @ 11.59pm
 -   **Submit in Canvas**
 
 
@@ -302,19 +304,19 @@ started**
 -   READINGS: `S&R` Ch. 5 & `W&G` Chs. 7
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
 
-
 ### Tuesday 23 September
-
--   Cognitive Interviews
--   Evaluating survey items
+-   Working on survey mini project
+-   Using Qualtrics
 
 
 ### Thursday 25 September
+- Working with R
+  - `ggplot` for data visualization
+  - `tidyverse` data analysis pipelines
 
+### ASSIGNMENT 3 DUE - Friday 26 September @ 11.59pm
+-   Submit in Jupyterhub
 
-### SURVEY MEASURES ASSIGNMENT (PART 2) DUE - Friday 26 September @ 11.59pm
-
--   **Submit in Canvas**
 
 
 ## Week 6 - Measurement
@@ -342,9 +344,7 @@ started**
 -   Measurement, Validity & Reliability
 
 
-### ASSIGNMENT 3 DUE - Friday 05 October @ 11.59pm
 
--   Submit in Jupyterhub
 
 
 ## Week 7 - Sampling
