@@ -285,6 +285,9 @@ started**
 ### Tuesday 16 September
 
 -   Using surveys
+-   Using Qualtrics to create surveys
+-   R coding so far review
+
 
 
 ### SURVEY MEASURES ASSIGNMENT (PART 1) DUE - Wednesday 17 September @ 11.59pm
@@ -303,6 +306,8 @@ started**
 
 -   READINGS: `S&R` Ch. 5 & `W&G` Chs. 7
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
+
+### NO QUIZ THIS WEEK
 
 ### Tuesday 23 September
 -   Working on survey mini project
@@ -345,6 +350,17 @@ started**
 
 
 
+### GROUP PROJECT 1 - PART A ASSIGNMENT DUE - Friday 03 October @ 11.59pm
+
+-   Write up of:
+    1.  Research Idea and Question(s)
+        (and related Hypotheses if appropriate)
+    2.  Conceptual Definitions
+    3.  Interview questions
+    4.  Interview Transcripts
+-   Submit in Canvas
+-   Group submission (one submission per group)
+
 
 
 ## Week 7 - Sampling
@@ -365,16 +381,11 @@ started**
 -   Selecting and sampling from a data frame
 
 
-### GROUP PROJECT 1 - PART A ASSIGNMENT DUE - Wednesday 08 October @ 11.59pm
+### ASSIGNMENT 4 DUE - Tuesday 07 October @ 11.59pm
 
--   Write up of:
-    1.  Research Idea and Question(s)
-        (and related Hypotheses if appropriate)
-    2.  Conceptual Definitions
-    3.  Interview questions
-    4.  Interview Transcripts
--   Submit in Canvas
--   Group submission (one submission per group)
+-   Submit in Jupyterhub
+
+
 
 
 ### Thursday 09 October
@@ -439,9 +450,6 @@ started**
 -   Experimental design
 
 
-### ASSIGNMENT 4 DUE - Friday 24 October @ 11.59pm
-
--   Submit in Jupyterhub
 
 
 ## Week 10 - Content Analysis (1)
