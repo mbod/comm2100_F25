@@ -350,7 +350,7 @@ started**
 
 
 
-### GROUP PROJECT 1 - PART A ASSIGNMENT DUE - Friday 03 October @ 11.59pm
+### GROUP PROJECT 1 - PART A ASSIGNMENT DUE - Sunday 05 October @ 11.59pm
 
 -   Write up of:
     1.  Research Idea and Question(s)
