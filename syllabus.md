@@ -355,9 +355,10 @@ started**
 -   Write up of:
     1.  Research Idea and Question(s)
         (and related Hypotheses if appropriate)
-    2.  Conceptual Definitions
-    3.  Interview questions
-    4.  Interview Transcripts
+    2.  Annontated bibliography of 5-6 relevant articles
+    3.  Conceptual Definitions
+    4.  Interview questions
+    5.  Interview Transcripts
 -   Submit in Canvas
 -   Group submission (one submission per group)
 
@@ -381,7 +382,7 @@ started**
 -   Selecting and sampling from a data frame
 
 
-### ASSIGNMENT 4 DUE - Tuesday 07 October @ 11.59pm
+### ASSIGNMENT 4 DUE - Wednesday 08 October @ 11.59pm
 
 -   Submit in Jupyterhub
 
