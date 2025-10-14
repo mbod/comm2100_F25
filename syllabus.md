@@ -285,20 +285,15 @@ started**
 ### Tuesday 16 September
 
 -   Using surveys
--   Using Qualtrics to create surveys
--   R coding so far review
+-   Working on survey mini project
+-   Using Qualtrics
 
 
-
-### SURVEY MEASURES ASSIGNMENT (PART 1) DUE - Wednesday 17 September @ 11.59pm
--   **Submit in Canvas**
-  
 ### Thursday 18 September
--   Cognitive Interviews 
--   Evaluating survey items
 
 
-### SURVEY MEASURES ASSIGNMENT (PART 2) DUE - Sunday 21 September @ 11.59pm
+### SURVEY MEASURES ASSIGNMENT (PART 1) DUE - Friday 19 September @ 11.59pm
+
 -   **Submit in Canvas**
 
 
@@ -307,21 +302,19 @@ started**
 -   READINGS: `S&R` Ch. 5 & `W&G` Chs. 7
     -   <https://r4ds.had.co.nz/exploratory-data-analysis.html>
 
-### NO QUIZ THIS WEEK
 
 ### Tuesday 23 September
--   Working on survey mini project
--   Using Qualtrics
+
+-   Cognitive Interviews
+-   Evaluating survey items
 
 
 ### Thursday 25 September
-- Working with R
-  - `ggplot` for data visualization
-  - `tidyverse` data analysis pipelines
 
-### ASSIGNMENT 3 DUE - Friday 26 September @ 11.59pm
--   Submit in Jupyterhub
 
+### SURVEY MEASURES ASSIGNMENT (PART 2) DUE - Friday 26 September @ 11.59pm
+
+-   **Submit in Canvas**
 
 
 ## Week 6 - Measurement
@@ -349,19 +342,21 @@ started**
 -   Measurement, Validity & Reliability
 
 
+### ASSIGNMENT 3 DUE - Friday 05 October @ 11.59pm
+
+-   Submit in Jupyterhub
+
 
 ### GROUP PROJECT 1 - PART A ASSIGNMENT DUE - Sunday 05 October @ 11.59pm
 
 -   Write up of:
     1.  Research Idea and Question(s)
         (and related Hypotheses if appropriate)
-    2.  Annontated bibliography of 5-6 relevant articles
-    3.  Conceptual Definitions
-    4.  Interview questions
-    5.  Interview Transcripts
+    2.  Conceptual Definitions
+    3.  Interview questions
+    4.  Interview Transcripts
 -   Submit in Canvas
 -   Group submission (one submission per group)
-
 
 
 ## Week 7 - Sampling
@@ -380,13 +375,6 @@ started**
 ### Tuesday 07 October
 
 -   Selecting and sampling from a data frame
-
-
-### ASSIGNMENT 4 DUE - Wednesday 08 October @ 11.59pm
-
--   Submit in Jupyterhub
-
-
 
 
 ### Thursday 09 October
@@ -417,15 +405,9 @@ started**
 -   Using interviews and surveys (Part 2)
 
 
-### GROUP PROJECT 1 - PART B ASSIGNMENT DUE - Friday 17 October @ 11.59pm
+### ASSIGNMENT 4 DUE - Friday 17 October @ 11.59pm
 
--   Write up of:
-    1.  Interview transcripts analysis (themes/topics)
-    2.  Operationalization of concepts
-    3.  Survey questions
-    4.  Create and test Qualtrics survey
--   Submit in Canvas
--   Group submission (one submission per group)
+-   Submit in Jupyterhub
 
 
 ## Week 9 - Using experiments
@@ -451,6 +433,15 @@ started**
 -   Experimental design
 
 
+### GROUP PROJECT 1 - PART B ASSIGNMENT DUE - Friday 24 October @ 11.59pm
+
+-   Write up of:
+    1.  Interview transcripts analysis (themes/topics)
+    2.  Operationalization of concepts
+    3.  Survey questions
+    4.  Create and test Qualtrics survey
+-   Submit in Canvas
+-   Group submission (one submission per group)
 
 
 ## Week 10 - Content Analysis (1)
@@ -515,6 +506,11 @@ started**
 -   Discourse Analysis
 
 
+### ASSIGNMENT 6 DUE - Friday 07 November @ 11.59pm
+
+-   Submit in Jupyterhub
+
+
 ## Week 12 - Intercoder Reliability (ICR) for Content Analysis & Using Mixed-Methods
 
 -   READINGS: `S&R` Chs. 8 (pp. 182-194) & Ch. 10
@@ -537,7 +533,7 @@ started**
 -   Intercoder Reliability
 
 
-### ASSIGNMENT 6 DUE - Friday 14 November @ 11.59pm
+### ASSIGNMENT 7 DUE - Friday 14 November @ 11.59pm
 
 -   Submit in Jupyterhub
 
@@ -564,7 +560,7 @@ started**
 -   Types of statistics, Hypothesis testing and types of error
 
 
-### ASSIGNMENT 7 DUE - Friday 21 November @ 11.59pm
+### ASSIGNMENT 8 DUE - Friday 21 November @ 11.59pm
 
 -   Submit in Jupyterhub
 
@@ -602,7 +598,7 @@ started**
 ### Thursday 04 December
 
 
-### ASSIGNMENT 8 DUE - Friday 05 December @ 11.59pm
+### ASSIGNMENT 9 DUE - Friday 05 December @ 11.59pm
 
 -   Submit in Jupyterhub
 
