@@ -506,11 +506,6 @@ started**
 -   Discourse Analysis
 
 
-### ASSIGNMENT 6 DUE - Friday 07 November @ 11.59pm
-
--   Submit in Jupyterhub
-
-
 ## Week 12 - Intercoder Reliability (ICR) for Content Analysis & Using Mixed-Methods
 
 -   READINGS: `S&R` Chs. 8 (pp. 182-194) & Ch. 10
@@ -533,7 +528,7 @@ started**
 -   Intercoder Reliability
 
 
-### ASSIGNMENT 7 DUE - Friday 14 November @ 11.59pm
+### ASSIGNMENT 6 DUE - Friday 14 November @ 11.59pm
 
 -   Submit in Jupyterhub
 
@@ -560,7 +555,7 @@ started**
 -   Types of statistics, Hypothesis testing and types of error
 
 
-### ASSIGNMENT 8 DUE - Friday 21 November @ 11.59pm
+### ASSIGNMENT 7 DUE - Friday 21 November @ 11.59pm
 
 -   Submit in Jupyterhub
 
@@ -598,12 +593,12 @@ started**
 ### Thursday 04 December
 
 
-### ASSIGNMENT 9 DUE - Friday 05 December @ 11.59pm
+### ASSIGNMENT 8 DUE - Friday 05 December @ 11.59pm
 
 -   Submit in Jupyterhub
 
 
-### CONTENT ANALYSIS ASSIGNMENT (Part 2) DUE - TBA @ 11.59pm
+### CONTENT ANALYSIS ASSIGNMENT (Part 2) DUE - Thursday 18 December @ 11.59pm
 
 -   Submit in Canvas
 
