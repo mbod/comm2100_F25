@@ -528,11 +528,6 @@ started**
 -   Intercoder Reliability
 
 
-### ASSIGNMENT 6 DUE - Friday 14 November @ 11.59pm
-
--   Submit in Jupyterhub
-
-
 ## Week 13 - Calculation and Statistics Overview
 
 -   READINGS: `S&R` Chs. 8 & 9
@@ -555,7 +550,7 @@ started**
 -   Types of statistics, Hypothesis testing and types of error
 
 
-### ASSIGNMENT 7 DUE - Friday 21 November @ 11.59pm
+### ASSIGNMENT 6 DUE - Friday 21 November @ 11.59pm
 
 -   Submit in Jupyterhub
 
@@ -593,7 +588,7 @@ started**
 ### Thursday 04 December
 
 
-### ASSIGNMENT 8 DUE - Friday 05 December @ 11.59pm
+### ASSIGNMENT 7 DUE - Friday 05 December @ 11.59pm
 
 -   Submit in Jupyterhub
 
