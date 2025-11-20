@@ -550,11 +550,6 @@ started**
 -   Types of statistics, Hypothesis testing and types of error
 
 
-### ASSIGNMENT 6 DUE - Friday 21 November @ 11.59pm
-
--   Submit in Jupyterhub
-
-
 ### CONTENT ANALYSIS ASSIGNMENT (Part 1) DUE - Sunday 23 November @ 11.59pm
 
 -   Submit in Canvas
@@ -569,6 +564,11 @@ started**
 
 -   Inferential statistics and thinking about correlation and causation
 -   Working on data analysis
+
+
+### ASSIGNMENT 6 DUE - Tuesday 25 November @ 11.59pm
+
+-   Submit in Jupyterhub
 
 
 ## THANKSGIVING BREAK November 27-30
